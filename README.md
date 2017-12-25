@@ -1,3 +1,5 @@
+http://localhost:9016/api/v1/teachers
+
 ## POST
 Using curl to add 4 teacher entries - http://prntscr.com/hojjn4
 Using postman to add 5th teacher entry - http://prntscr.com/hojjxd, http://prntscr.com/hojk0v
